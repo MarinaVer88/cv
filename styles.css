@@ -1,0 +1,19 @@
+body {
+  background-color: lightcyan;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 5%;
+}
+
+h1 {
+  color: #8b008b;
+}
+
+h3 {
+  color: #8b008b;
+}
